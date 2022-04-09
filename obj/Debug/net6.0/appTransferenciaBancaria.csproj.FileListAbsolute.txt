@@ -1,0 +1,15 @@
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\bin\Debug\net6.0\appTransferenciaBancaria.exe
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\bin\Debug\net6.0\appTransferenciaBancaria.deps.json
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\bin\Debug\net6.0\appTransferenciaBancaria.runtimeconfig.json
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\bin\Debug\net6.0\appTransferenciaBancaria.dll
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\bin\Debug\net6.0\appTransferenciaBancaria.pdb
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\obj\Debug\net6.0\appTransferenciaBancaria.csproj.AssemblyReference.cache
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\obj\Debug\net6.0\appTransferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\obj\Debug\net6.0\appTransferenciaBancaria.AssemblyInfoInputs.cache
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\obj\Debug\net6.0\appTransferenciaBancaria.AssemblyInfo.cs
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\obj\Debug\net6.0\appTransferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\obj\Debug\net6.0\appTransferenciaBancaria.dll
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\obj\Debug\net6.0\refint\appTransferenciaBancaria.dll
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\obj\Debug\net6.0\appTransferenciaBancaria.pdb
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\obj\Debug\net6.0\appTransferenciaBancaria.genruntimeconfig.cache
+C:\workspace\AppTransferenciaBancaria\appTransferenciaBancaria\obj\Debug\net6.0\ref\appTransferenciaBancaria.dll
